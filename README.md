@@ -5,7 +5,7 @@ assert - Terminer le programme en cas d'échec d'un test
 ```c
 #include <assert.h>
 
-void assert(scalar expression);
+void myassert(scalar expression);
 ```
  
 ## DESCRIPTION
